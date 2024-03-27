@@ -25,7 +25,7 @@ Link do figma do projeto: [Projeto EcoCity](https://www.figma.com/file/iqxIRNkSx
 
 
 ## 👷 Autores
-- **Felipe Conti Chagas Roza** - [frz-developer](https://github.com/frz-developer)
+- **Felipe Conti Chagas Roza** - [felipec-chagas-frz](https://github.com/felipec-chagas-frz)
 - **Guilherme Avila Meneghini** - [guimeneghini](https://github.com/guimeneghini)
 - **Herculano Samuel Gonçalves da Silva** - [HerculanoSamuel](https://github.com/HerculanoSamuel)
 - **Rafael da Costa Ferreira** - [RafaelHzn](https://github.com/RafaelHzn)
