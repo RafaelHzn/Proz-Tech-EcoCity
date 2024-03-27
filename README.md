@@ -31,4 +31,8 @@ Link do figma do projeto: [Projeto EcoCity](https://www.figma.com/file/iqxIRNkSx
 - **Rafael da Costa Ferreira** - [RafaelHzn](https://github.com/RafaelHzn)
 
 ## 📄 Licença
+<<<<<<< HEAD
 Esse projeto está sob a licença MIT - acesse os detalhes [LICENSE.md](https://github.com/Proz-Tech/EcoCity/blob/main/LICENSE).
+=======
+Esse projeto está sob a licença MIT - acesse os detalhes [LICENSE.md](https://github.com/Proz-Tech/EcoCity/blob/main/LICENSE).
+>>>>>>> 48ff50068d91fcbdf6668edca189047589b3db2c
