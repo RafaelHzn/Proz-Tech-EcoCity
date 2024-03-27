@@ -1,4 +1,4 @@
-![Logo do projeto](/assets/img/logo.png)
+![Logo do projeto](/assets/img/logo_ecocity.png)
 
 # EcoCity
 O projeto é um site dedicado a destacar e promover práticas sustentáveis em empresas. Ele oferece uma plataforma para exibir informações sobre diferentes empresas e como elas estão adotando estratégias e iniciativas para se tornarem mais sustentáveis. Além disso, o site apresenta um ranking que avalia e classifica essas empresas com base em critérios de sustentabilidade, reconhecendo e destacando aquelas que estão liderando o caminho rumo à responsabilidade ambiental e social.
@@ -31,8 +31,4 @@ Link do figma do projeto: [Projeto EcoCity](https://www.figma.com/file/iqxIRNkSx
 - **Rafael da Costa Ferreira** - [RafaelHzn](https://github.com/RafaelHzn)
 
 ## 📄 Licença
-<<<<<<< HEAD
 Esse projeto está sob a licença MIT - acesse os detalhes [LICENSE.md](https://github.com/Proz-Tech/EcoCity/blob/main/LICENSE).
-=======
-Esse projeto está sob a licença MIT - acesse os detalhes [LICENSE.md](https://github.com/Proz-Tech/EcoCity/blob/main/LICENSE).
->>>>>>> 48ff50068d91fcbdf6668edca189047589b3db2c
